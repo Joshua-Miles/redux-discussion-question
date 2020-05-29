@@ -1,4 +1,4 @@
-# Redux Discussion Question
+# Redux Stock Chart
 
 1. Run `npm install`
 2. Run `npm start`
